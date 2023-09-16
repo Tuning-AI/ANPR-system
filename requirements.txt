@@ -1,0 +1,10 @@
+ultralytics
+cvzone
+streamlit
+matplotlib
+numpy
+csv
+pandas
+easyocr
+filterpy
+scikit-image
