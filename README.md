@@ -21,3 +21,4 @@ Collection of images and associated data related to vehicle license plates withi
 ## EasyOCR
 EasyOCR is a Python library for Optical Character Recognition (OCR) that allows you to easily extract text from images and scanned documents. It is a general OCR that can read both natural scene text and dense text in a document. It currently supports over 80 languages and all popular writing scripts, including Latin, Chinese, Arabic, Devanagari, and Cyrillic.
 
+- Created By Kirouane Ayoub 
